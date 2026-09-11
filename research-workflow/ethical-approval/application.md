@@ -7,20 +7,17 @@ nav_exclude: true
 
 This is a step-by-step workflow for applying for ethical approval:
 
-1. Add a new study in the research portal.
-2. Click on **Ethical Review** and then **Open EC Request**.  
-   This will take you to the EC Request portal.
-3. Click on **Start new request** and select the study you just created in the research portal.
-4. Next to your study, click the green **Fill out** button.
-5. Complete the questionnaire and submit the request for approval by your **Principal Investigator (PI)**.
+1. Go to <https://unirequest.rug.nl/>
+2. Create a new study and fill out all forms that are required by Unirequest
+   - MyUniversity contains templates for the various documents that need to be uploaded ([link](https://myuniversity.rug.nl/infonet/medewerkers/gmw/research/ec/documents-for-review/))
+   - The shared Research drive ([link](https://drive.google.com/drive/folders/1uu9DgYKrXhGsCZimGL4onloWnveUZLoS?usp=drive_link)) contains concrete examples for the same documents, which can be adapted and re-used
+5. You will receive an ethical review code that looks like: UG-0001-GMW-S-000001
 
 ---
 
-## Fast-track procedure
+## Fast-track workflow
 
-The second question in the application asks whether your study is eligible for the **fast-track procedure**.
-
-This procedure assesses the potential ethical risks involved in your study. If the study is classified as **low risk**, it is exempt from full ethical review, which significantly speeds up the approval process.
+When creating a new study, you can opt for the Fast-track workflow. When selecting this, the study is automatically approved once you've registered it, based on the assumption that it carries little to no risk. Studies are occasionally checked afterwards to see if researchers use the Fast-track workflow responsibly.
 
 Many standard experiments conducted at Experimental Psychology meet the fast-track criteria, **except** for:
 
