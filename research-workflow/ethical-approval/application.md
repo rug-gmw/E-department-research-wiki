@@ -63,6 +63,12 @@ Required documents:
 
 ---
 
+## Sharing Data with External Parties
+
+When collaborating with researchers or parties outside the UG, a Data Transfer Agreement (DTA) and Joint Controller Agreement (JCA) has to be made. Templates and manuals for creating a TDA and JCA can be found [here](https://drive.google.com/drive/folders/1JH6UpRHdUkt5fM5hw2kmEtl5Z96XQ7QC).
+
+---
+
 ## Resources
 
 - **ECP website**  
